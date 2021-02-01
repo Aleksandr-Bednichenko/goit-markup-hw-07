@@ -1157,7 +1157,7 @@ margin-bottom: 30px;
 
 .checkbox:checked + .checkbox-icon {
   background-color: var(--hover-text-color);
-  background-image: url(../css/img/icon\ check.svg);
+  background-image: url(//css/img/icon-check.svg);
   background-size: contain;
   background-origin: border-box;
   border-color: transparent
