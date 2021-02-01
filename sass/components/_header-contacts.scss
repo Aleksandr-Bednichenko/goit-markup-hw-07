@@ -1,9 +1,8 @@
 .header-contacts {
   display: flex;
   margin-left: auto;
-  color: $grey-text-color;
 
-  & > &-item:not(:last-child) {
+  &-item:not(:last-child) {
     margin-right: 50px;
   }
 
